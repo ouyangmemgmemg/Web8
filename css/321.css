@@ -1,0 +1,129 @@
+*{
+	margin: 0 auto;
+}
+.banner{
+	background-image: url(../image/6581.jpg);
+	width: 1350px;
+	height: 350px;
+	background-size: 1350px 350px;
+
+}
+ul li {
+ 	list-style: none;
+ 	margin-top: 20px;
+ 	float:left;
+ 	padding-left:30px;
+ 	font-family: '华文琥珀';
+ 	font-size: 18px;
+ 	opacity: 0.7;
+ 	color: #ffffff;
+ }
+ li:hover{
+ 	color: #54e6f3;
+ 	opacity: 0.7;
+ }
+.banner .loge{
+	height: 40px;
+	position: relative;
+	left: -150px;
+	top: 200px;
+	font-family:'Edwardian script ITC';
+ 	font-size: 60px;
+ 	color: #ffffff;
+}
+.wenzi{
+	width: 1350px;
+	height:350px;
+}
+.wenzi p{
+	font-family: '方正舒体';
+	font-size:70px;
+	color: black;
+	padding-left: 290px;
+	padding-top: 70px;
+}
+.content {
+	width: 1350px;
+	height: 600px;
+	background-image: url(../image/481.jpg);
+	background-size: 1350px 600px;
+	margin-top: 3px;
+}
+.content .a{
+	width: 300px;
+	height: 200px;
+	border: 1px solid black;
+	background-image: url(../image/4613.jpg);
+	background-size: 300px 200px;
+	border-radius: 10px;
+	margin-top: 40px;
+	margin-right: 230px;
+}
+.content .b {
+	text-decoration: none;
+	margin-top: -200px;
+	margin-right: 50px;
+	margin-left: 100px;
+	float: left;
+	width: 600px;
+	height:200px;
+	font-family:'楷体';
+    font-size: 20px;
+}
+.content .c{
+	width: 300px;
+	height: 200px;
+	border: 1px solid black;
+	background-image: url(../image/654.jpg);
+	background-size: 300px 200px;
+	border-radius: 10px;
+	margin-top: 40px;
+	margin-left: 130px;
+}
+.content .d{
+	margin-top: -200px;
+	margin-right: 250px;
+	float: right;
+	width: 600px;
+	height:200px;
+	font-family:'楷体';
+    font-size: 20px;
+}
+.wenzi .shu p{
+	margin-top: -30px;
+	margin-left: -10px;
+	font-size: 20px;
+	font-family: '楷体';
+	width: 800px;
+	height: 20px;
+	padding-bottom: 30px;
+	padding-right: 30px;
+}
+.content p{
+	padding-top: 80px;
+	padding-left: 100px;
+	font-family: '楷体';
+	font-size: 30px;
+	color: #000000;
+}
+.banner .search input{
+	float: right;
+
+}
+.banner .search input[type="text"]{
+	width: 250px;
+	height: 30px;
+	border-radius: 10px;
+	opacity: 0.7;
+}
+.banner .search input[type="button"]{
+	float: right;
+	width: 50px;
+	height: 35px;
+	margin-right: 30px;
+	border-radius: 10px;
+	background-image: url(../image/895.jpg);
+	background-size: 50px 35px;
+	opacity: 0.8;
+}
+	

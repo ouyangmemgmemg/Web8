@@ -1,0 +1,129 @@
+*{
+	margin: 0 auto;
+}
+.image{
+	width: 1350px;
+	height:680px;
+ 	background-image: url(../image/687.jpg);
+ 	background-size: 1350px 680px;
+
+}
+.image .search input[type="text"]{
+	margin-top: 10px;
+	margin-left: 500px;
+	width: 300px;
+	height: 5px;
+    padding-top: 30px;
+    border-radius: 10px;
+    opacity: 0.5;
+}
+.image .search input[type="button"]{
+	width: 60px;
+	height: 40px;
+	margin-top: -1000px;
+	background-image: url(../image/895.jpg);
+	background-size: 60px 45px;	
+	opacity: 0.7;
+    border-radius: 10px;
+}
+.wenzi{
+	background-image: url(../image/561.jpg);
+	float: left;
+	width: 80px;
+    height: 50px;
+    border: 1px solid #000000;
+
+}
+ ul li {
+ 	list-style: none;
+ 	margin-top: 20px;
+ }
+ ul li{
+ 	float:left;
+ 	padding-left:30px;
+ 	font-family: '华文琥珀';
+ 	font-size: 18px;
+ 	opacity: 0.7;
+ }
+ li:hover{
+ 	color: #54e6f3;
+ 	opacity: 0.7;
+ }
+ .image .loge p{
+ 	position: relative;
+    left: -200px;
+    top: 500px;
+ 	font-family:'Edwardian script ITC';
+ 	font-size: 70px;
+ 	color:white;
+
+ }
+ .banner{
+ 	width: 1350px;
+	height:680px;
+ 	background-image: url(../image/03363.jpg);
+ 	background-size: 1350px 680px;
+
+ }
+ .banner .noge p{
+ 	font-family:'Edwardian script ITC';
+ 	font-size: 70px;
+ 	color:white;
+ 	position: relative;
+    top: 500px;
+ }
+  .banne {
+ 	width: 1350px;
+	height:680px;
+ 	background-image: url(../image/512.jpg);
+ 	background-size: 1350px 680px;
+ }
+ .banne .poge{
+ 	font-family:'Edwardian script ITC';
+ 	font-size: 70px;
+ 	color:white;
+ 	position: relative;
+    top: 500px;
+ }
+ .bann{
+ 	width: 1350px;
+	height:680px;
+ 	background-image: url(../image/841.jpg);
+ 	background-size: 1350px 680px;
+ }
+ .bann .oge{
+ 	font-family:'Edwardian script ITC';
+ 	font-size: 70px;
+ 	color:white;
+ 	position: relative;
+    top: 500px;
+  }
+  .footer{
+  	width: 1350px;
+  	height: 150px;
+  }
+  .footer .footer-1{
+  	width: 1350px;
+  	height: 80px;
+  }
+  .footer .footer-1 ul{
+  	list-style: none;
+  	margin-left: 300px;
+  }
+.footer .footer-1 ul li{
+	float: left;
+	margin-left: 30px;
+	font-size: 18px
+}
+.footer .footer-2{
+  	width: 1350px;
+  	height: 70px;
+}
+.footer .footer-2 p{
+	text-align: center;
+	font-size: 15px;
+	font-family: '宋体'；
+}
+
+  
+  
